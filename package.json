@@ -1,7 +1,10 @@
 {
   "name": "server",
-  "version": "1.0.0",
   "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13.1"
+  },
   "main": "index.js",
   "dependencies": {
     "bcrypt": "^5.0.1",
